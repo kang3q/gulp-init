@@ -1,0 +1,11 @@
+.c {
+    display: inline;
+}
+
+.d {
+    color: aliceblue;
+    width: 4px;
+    border-radius: 4px;
+    box-shadow: aliceblue;
+    display: flex;
+}

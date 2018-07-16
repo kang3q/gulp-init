@@ -1,0 +1,16 @@
+.a {
+  color: white;
+  width: 10px;
+  .b {
+    width: 20px;
+  }
+}
+
+.c {
+  display: block;
+  .d {
+    display: inline;
+  }
+  color: red;
+  width: 33px;
+}

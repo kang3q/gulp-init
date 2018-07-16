@@ -1,0 +1,15 @@
+@import "common/common";
+
+.a {
+  width: 10px;
+  .b {
+    color: red;
+  }
+}
+
+.c {
+  display: inline;
+  width: 1px;
+  color: red;
+  @include aa();
+}
